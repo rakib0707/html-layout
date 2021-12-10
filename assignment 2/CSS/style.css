@@ -1,0 +1,56 @@
+header{
+    height: 80px;
+    background-color: blueviolet;
+    text-align: center;
+    color: white;
+}
+.slider{
+    height: 300px;
+    background-color: tomato;
+    text-align: center;
+    color: white;
+}
+.left{
+    height: 400px;
+    width: 60%;
+    background-color: purple;
+    float: left;
+    color: white;
+    text-align: center;
+
+}
+.right{
+    height: 400px;
+    width: 40%;
+    background-color: seagreen;
+    float: right;
+    color: white;
+    text-align: center;
+}
+.up{
+    height: 50%;
+    width: 100%;
+    background-color: olive;
+    color: white;
+    text-align: center;
+
+}
+.down{
+    height: 50%;
+    width: 100%;
+    background-color: orangered;
+    color: white;
+    text-align: center;
+}
+footer{
+    background-color: mediumvioletred;
+    text-align: center;
+    color: white;
+    height: 80px;
+}
+.content{
+    overflow: auto;
+}
+h1{
+    margin: 0%;
+}

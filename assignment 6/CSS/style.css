@@ -1,0 +1,77 @@
+header{
+    background-color: peru;
+    height: 80px;
+    text-align: center;
+}
+.slider{
+    background-color:orangered;
+    height: 200px;
+    text-align: center;
+}
+.left{
+    width: 70%;
+    background-color: red;
+    height: 300px;
+    float: left;
+
+}
+.right{
+    width: 30%;
+    background-color:olive;
+    height: 300px;
+    float: right;
+    text-align: center
+    ;
+
+}
+.up{
+    height: 50%;
+    background-color: magenta;
+    text-align: center;
+
+}
+.buttom{
+    height: 50%;
+    background-color: mediumblue;
+
+}
+h1{
+    margin: 0;
+}
+footer{
+    background-color: teal;
+    height: 80px;
+    text-align: center;
+}
+
+
+.rakib{
+   width: 33.3%;
+   background-color: red;
+   float: left;
+   height: 100%;
+   text-align: center;
+}
+.hosen{
+    width: 33.3%;
+    background-color: sienna;
+    float: left;
+    height: 100%;
+    text-align: center;
+}  
+.anik{
+    width: 33.3%;
+    float: left;
+    height: 100%;
+    text-align: center;
+    background-color: slategray;
+}  
+footer{
+    background-color: seagreen;
+    height: 80px;
+    text-align: center;
+
+}
+.blocks{
+    overflow: hidden;
+}

@@ -1,0 +1,66 @@
+header{
+    background:linear-gradient(rebeccapurple, olive);
+    text-align: center;
+    color: white;
+    height: 80px;
+}
+.slider{
+    background:linear-gradient(red, blue);
+    height: 400px;
+    text-align: center;
+    color: white;
+}
+.content{
+    overflow: hidden;
+}
+.left{
+   width: 50%;
+   height: 250px;
+   text-align: center;
+   color: white;
+   background:linear-gradient( olive,maroon);
+   float: left;
+}
+.right{
+    width: 50%;
+    height: 250px;
+    text-align: center;
+    color: white;
+    background:linear-gradient(indigo, forestgreen);
+    float: left;
+ }
+ .iteam{
+     overflow: hidden;
+ }
+ .iteam_one{
+     width: 33.3%;
+     height:150px ;
+     text-align: center;
+     color: white;
+     float: left;
+     background:linear-gradient(indigo, firebrick);
+
+ }
+ .iteam_two{
+    width: 33.3%;
+    height:150px ;
+    text-align: center;
+    color: white;
+    float: left;
+    background:linear-gradient(red ,lightseagreen);
+ }
+ .iteam_three{
+    width: 33.3%;
+    height:150px ;
+    text-align: center;
+    color: white;
+    float: left;
+    background:linear-gradient(orangered,lawngreen);
+ }
+ footer{
+     width: 100%;
+     height: 60px;
+     background:linear-gradient(maroon,darkorange);
+     text-align: center;
+     color: white;
+ }

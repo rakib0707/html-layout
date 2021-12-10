@@ -1,0 +1,40 @@
+header{
+    height: 60px;
+    background-color: coral;
+   text-align: center;
+   color:white
+}
+.slider{
+    height: 200px;
+    background-color: steelblue;
+    text-align: center;
+    color: white;
+}
+.index{
+    width: 30%;
+    background-color: sienna;
+    height: 350px;
+    text-align: center;
+    color: white;
+    float: left;
+
+}
+.content{
+    width: 70%;
+    height: 350px;
+    background-color: seagreen;
+    text-align: center;
+    color: white;
+    float: right;
+
+}
+.blocks{
+    overflow: auto;
+
+}
+footer{
+    background-color: olive;
+    height: 60px;
+    color: white;
+    text-align: center;
+}
